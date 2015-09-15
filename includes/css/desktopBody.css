@@ -1,0 +1,15 @@
+body {
+	font-family: PT Sans;
+	margin: 0 auto;
+}
+
+p {
+	margin: 0;
+}
+
+.wrapper {
+	width: 95%;
+	margin: 0 auto;
+	max-width: 1200px;
+	margin-top: 5px;
+}
